@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Continuous Integration/Continuous Deployment (CI/CD)</b>
-  - [Jenkins Pipeline for scanning code and building docker images](https://github.com/RockiestSpy7)
+- <b>AWS Projects</b>
+  - [Simple Webserver Setup](https://github.com/RockiestSpy7)
 
 <h2> 🤳 Connect with me:</h2>
 
