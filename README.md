@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>AWS Projects</b>
-  - [Simple HTML Website using an EC2 Instance]([https://github.com/RockiestSpy7/Simple_HTML_Website_EC2])
+  - [Simple HTML Website using an EC2 Instance](https://github.com/RockiestSpy7/Simple_HTML_Website_EC2)
 
 <h2> 🤳 Connect with me:</h2>
 
