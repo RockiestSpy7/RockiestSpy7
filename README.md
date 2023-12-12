@@ -3,7 +3,9 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>AWS Projects</b>
-  - [Host a Dynamic Ecommerce Website](https://github.com/RockiestSpy7/Host-a-Dynamic-Ecommerce-Website)
+  - [Host a Dynamic Ecommerce Website using Terraform](https://github.com/RockiestSpy7/dynamic-website)
+  - [Host a Dynamic Web App with ECS using Terraform Modules](https://github.com/RockiestSpy7/dynamic-web-app)
+  - [My Resume/Portfolio Website](https://github.com/RockiestSpy7/static-website)
 
 <h2> 🤳 Connect with me:</h2>
 
