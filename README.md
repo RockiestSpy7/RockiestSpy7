@@ -5,7 +5,9 @@
 - <b>AWS Projects</b>
   - [Host a Dynamic Ecommerce Website using Terraform](https://github.com/RockiestSpy7/dynamic-website)
   - [Host a Dynamic Web App with ECS using Terraform Modules](https://github.com/RockiestSpy7/dynamic-web-app)
-  - [My Resume/Portfolio Website](https://github.com/RockiestSpy7/static-website)
+  - [Deploying a Static Website with a S3 Bucket using Terraform](https://github.com/RockiestSpy7/static-website)
+- <b>Other Projects</b>
+  - [My Blog Website](https://networkstache.com)
 
 <h2> 🤳 Connect with me:</h2>
 
